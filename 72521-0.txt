@@ -1,4 +1,3 @@
-
 [Illustration:
 
   =The Lunar “Crater” Copernicus=
@@ -5604,5 +5603,3 @@ he will find the knowledge thus acquired as delightful as it is useful.
       this: “P^3” or “10^{18}”, i.e. P cubed or 10 to the 18th power.
     ○ Variables in formulæ sometimes use subscripts, which look like
       this: “A_{0}”. This would be read “A sub 0”.
-
-
